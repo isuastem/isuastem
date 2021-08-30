@@ -2,9 +2,8 @@
 
 I'm a coder & designer from México at [@AIRAMX](https://github.com/AIRAMX)_ 
 
-<a href="http://isaacsuaste.com"><img src="https://img.shields.io/badge/%E2%9A%A1%20isaacsuaste.com-F2F2F2.svg?&style=flat" /></a> <a href="https://twitter.com/isuastem"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/isuastem?style=social"></a> <a href="https://github.com/isuastem"><img alt="GitHub followers" src="https://img.shields.io/github/followers/isuastem?style=social"></a> <a href="https://linkedin.com/in/isuastem"><img alt="LinkedIn" src="https://img.shields.io/badge/isuastem-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a> <img alt="Visitor count" src="https://visitor-badge.laobi.icu/badge?page_id=isuastem">
+<a href="http://isaacsuaste.com"><img src="https://img.shields.io/badge/%E2%9A%A1%20isaacsuaste.com-F2F2F2.svg?&style=flat" /></a> <a href="https://twitter.com/isuastem"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/isuastem?style=social"></a> <a href="https://linkedin.com/in/isuastem"><img alt="LinkedIn" src="https://img.shields.io/badge/isuastem-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a> <img alt="Visitor count" src="https://visitor-badge.laobi.icu/badge?page_id=isuastem">
 
-I learned to code microcontrollers 10 years ago
 
  **Embedded Systems** 
 
