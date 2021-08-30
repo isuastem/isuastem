@@ -1,8 +1,10 @@
 # Hi, I'm Isaac <img src="https://user-images.githubusercontent.com/1270156/94347868-40c8c480-0038-11eb-9a7c-9d3dfb608e33.gif" height="43px">
 
-I'm a coder & designer from México at [@AIRAMX](https://github.com/AIRAMX)_ 
+I'm a coder & designer from México _ 
 
 <a href="http://isaacsuaste.com"><img src="https://img.shields.io/badge/%E2%9A%A1%20isaacsuaste.com-F2F2F2.svg?&style=flat" /></a> <a href="https://twitter.com/isuastem"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/isuastem?style=social"></a> <a href="https://linkedin.com/in/isuastem"><img alt="LinkedIn" src="https://img.shields.io/badge/isuastem-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a> <img alt="Visitor count" src="https://visitor-badge.laobi.icu/badge?page_id=isuastem">
+
+Currently, I write code at [@AIRAMX](https://github.com/AIRAMX) | [@TheWhiskersMX](https://github.com/TheWhiskersMX) 
 
 
  **Embedded Systems** 
