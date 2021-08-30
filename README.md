@@ -8,7 +8,7 @@
 
 <samp> **Embedded Systems** </samp>
 
-<img src="https://img.shields.io/badge/assembly%20-%2300b964.svg?&style=flat&logo=AssemblyScript&logoColor=white"/> <img src="https://img.shields.io/badge/Compiler%20-%23a8b9cc.svg?&style=flat&logo=C&logoColor=white"/> 
+<img src="https://img.shields.io/badge/assembly%20-%2300b964.svg?&style=flat&logo=AssemblyScript&logoColor=white"/> <img src="https://img.shields.io/badge/Compiler%20-%23121011.svg?&style=flat&logo=C&logoColor=white"/> 
 
 <samp> **Software** </samp>
 
