@@ -4,17 +4,15 @@ I'm a coder & designer from México _
 
 <a href="http://isaacsuaste.com"><img src="https://img.shields.io/badge/%E2%9A%A1%20isaacsuaste.com-F2F2F2.svg?&style=flat" /></a> <a href="https://twitter.com/isuastem"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/isuastem?style=social"></a> <a href="https://linkedin.com/in/isuastem"><img alt="LinkedIn" src="https://img.shields.io/badge/isuastem-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a> <img alt="Visitor count" src="https://visitor-badge.laobi.icu/badge?page_id=isuastem">
 
-
 I learned to code 10 years ago. 
-
 
  **Embedded Systems** 
 
 <img src="https://img.shields.io/badge/assembly%20-%2300b964.svg?&style=flat&logo=AssemblyScript&logoColor=white"/> <img src="https://img.shields.io/badge/Compiler%20-%23121011.svg?&style=flat&logo=C&logoColor=white"/> 
 
+ **Software** 
 
-
- **Software** <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=flat&logo=gnu-bash&logoColor=white"/> 
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=flat&logo=gnu-bash&logoColor=white"/> 
 
 **Frameworks**
 
