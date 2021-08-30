@@ -4,7 +4,8 @@ I'm a coder & designer from México _
 
 <a href="http://isaacsuaste.com"><img src="https://img.shields.io/badge/%E2%9A%A1%20isaacsuaste.com-F2F2F2.svg?&style=flat" /></a> <a href="https://twitter.com/isuastem"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/isuastem?style=social"></a> <a href="https://linkedin.com/in/isuastem"><img alt="LinkedIn" src="https://img.shields.io/badge/isuastem-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a> <img alt="Visitor count" src="https://visitor-badge.laobi.icu/badge?page_id=isuastem">
 
-Currently, I write code at [@AIRAMX](https://github.com/AIRAMX) | [@TheWhiskersMX](https://github.com/TheWhiskersMX) 
+
+I learned to code 10 years ago. 
 
 
  **Embedded Systems** 
@@ -28,4 +29,7 @@ Currently, I write code at [@AIRAMX](https://github.com/AIRAMX) | [@TheWhiskersM
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/>  <img src ="https://img.shields.io/badge/mongodb-%234ea94b.svg?&style=flat&logo=mongodb&logoColor=white"/> 
 
 **Other stuff**
+
+
+Currently, I write code at [@AIRAMX](https://github.com/AIRAMX) | [@TheWhiskersMX](https://github.com/TheWhiskersMX) 
 
