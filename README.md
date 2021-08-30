@@ -6,9 +6,13 @@
 
 <a href="http://isaacsuaste.com"><img src="https://img.shields.io/badge/%E2%9A%A1%20isaacsuaste.com-F2F2F2.svg?&style=flat" /></a> <a href="https://twitter.com/isuastem"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/isuastem?style=social"></a> <a href="https://github.com/isuastem"><img alt="GitHub followers" src="https://img.shields.io/github/followers/isuastem?style=social"></a> <a href="https://linkedin.com/in/isuastem"><img alt="LinkedIn" src="https://img.shields.io/badge/isuastem-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a> <img alt="Visitor count" src="https://visitor-badge.laobi.icu/badge?page_id=isuastem">
 
-**Languages**
+<samp> **Embedded Systems** </samp>
 
-<img src="https://img.shields.io/badge/assembly%20-%2300b964.svg?&style=flat&logo=AssemblyScript&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=flat&logo=gnu-bash&logoColor=white"/> 
+<img src="https://img.shields.io/badge/assembly%20-%2300b964.svg?&style=flat&logo=AssemblyScript&logoColor=white"/> 
+
+**Software**
+
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=flat&logo=gnu-bash&logoColor=white"/> 
 
 **Frameworks**
 
@@ -16,11 +20,10 @@
 
 **Services**
 
-<img src="https://img.shields.io/badge/aws%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=flat&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/glitch%20-%233333FF.svg?&style=flat&logo=glitch&logoColor=white"/> <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=flat&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/digitalocean-%230167ff.svg?&style=flat&logo=digitalOcean&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/aws%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=flat&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat&logo=heroku&logoColor=white"/>  <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=flat&logo=vercel&logoColor=white"/>
 **Databases**
 
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/> <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=flat&logo=postgresql&logoColor=white"/> <img src ="https://img.shields.io/badge/mongodb-%234ea94b.svg?&style=flat&logo=mongodb&logoColor=white"/> <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=flat&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/>  <img src ="https://img.shields.io/badge/mongodb-%234ea94b.svg?&style=flat&logo=mongodb&logoColor=white"/> 
 
 **Other stuff**
 
